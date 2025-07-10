@@ -1,0 +1,8 @@
+baseURL = "https://mi-sitio-hugo.github.io/"
+title = "Mi Blog"
+theme = "PaperMod"
+languageCode = "es-ES"
+[pagination]
+  pagerSize = 10
+
+
